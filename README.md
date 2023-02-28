@@ -1,4 +1,4 @@
-# H&M
+# H&M Kaggle
 
 H&M ran a kaggle competition that has long since expired. This project aims at competing in a dead contest. 
 
