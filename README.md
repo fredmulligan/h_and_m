@@ -10,9 +10,12 @@ The "state of the science" recommendor systems, with proven performance winning 
 
 #### RETRIEVAL METHODS
 
-`- collab filtering 
+COLLAB FILTERING METHODS
+
 Matrix factorization
 LightGCM 
+
+OTHER RETRIEVAL METHODS
 
 Top N products for men and women
 Top N per category for season
