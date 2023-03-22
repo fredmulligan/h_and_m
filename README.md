@@ -8,7 +8,7 @@ While it is focussed on fashion, the competition resembles the problems faced in
 
 The "state of the science" recommendor systems, with proven performance winning Kaggle competitions, generally involve a scalable retrieval method for generating N possible candidates, which are then ranked with a more refined ranking algorithm .  In general, the retrieval task is a mixture (ensemble) of different algorithms with .  As this is Tabular data,  in order to in recommender systems is generally accepted to be a two part approach. 
 
-RETRIEVAL METHODS
+#### RETRIEVAL METHODS
 
 - collab filtering - 
 Matrix factorization
