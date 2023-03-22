@@ -10,7 +10,7 @@ The "state of the science" recommendor systems, with proven performance winning 
 
 #### RETRIEVAL METHODS
 
-- collab filtering - 
+`- collab filtering 
 Matrix factorization
 LightGCM 
 
